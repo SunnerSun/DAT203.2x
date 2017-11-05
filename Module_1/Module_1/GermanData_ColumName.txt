@@ -1,0 +1,1 @@
+CheckingAcctStat,Duration,CreditHistory,Purpose,CreditAmount,Savings,Employment,InstallmentRatePecnt,SexAndStatus,OtherDetorsGuarantor,PresentResidenceTime,Property,Age,Otherinstallments,Housing,ExistingCreditsAtBank,Job,NumberDependents,Telephone,ForeignWorker,CreditStatus
